@@ -1,4 +1,4 @@
-# 📊 Statistical Modelling for Business Decision-Making
+# Statistical Modelling for Business Decision-Making
 
 **Category:** Data Science / Statistical Analysis  
 **Tools:** Python (pandas, numpy), R  
