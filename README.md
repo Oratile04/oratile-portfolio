@@ -9,7 +9,7 @@ and data science techniques to real-world business problems.**
 ## About Me
 I am an aspiring data scientist currently building my foundation through structured learning and hands-on project work. My interest in data science grew from a simple but powerful realisation: that hidden inside every dataset is a story waiting to be told and the right combination of statistical thinking and computational tools can tell it.
 My projects focus on applying statistical modelling and data science techniques to real-world business problems — the kind of work where analysis doesn't just produce numbers, but drives decisions. I am particularly excited about the intersection of data and business strategy: using models to forecast outcomes, identify patterns, and give organisations a clearer picture of what's actually happening and what's likely to come next.
-I am currently developing my technical skills in Python and R, with a focus on building clean, reproducible analytical workflows. I approach every dataset with curiosity, rigour, and an eye for what the business actually needs to know — not just what the data happens to show.
+I am currently developing my technical skills in Python and R, with a focus on building clean, reproducible analytical workflows. I approach every dataset with curiosity, rigour, and an eye for what the business actually needs to know, not just what the data happens to show.
 
 ## Skills
 - Python (pandas, numpy)
