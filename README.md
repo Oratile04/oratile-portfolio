@@ -25,11 +25,11 @@ cholesterol, tobacco use, obesity, alcohol consumption, and age.
 
 ## Visualisations
 
-![Age Distribution by Heart Disease Status](chart1_age_distribution.png)
+![Age Distribution by Heart Disease Status]([chart1_age_distribution.png](https://github.com/Oratile04/oratile-portfolio/blob/main/projects/statistical-modelling/Rplot01.png))
 
-![Tobacco vs LDL Cholesterol](chart2_tobacco_ldl.png)
+![Tobacco vs LDL Cholesterol]([chart2_tobacco_ldl.png](https://github.com/Oratile04/oratile-portfolio/blob/main/projects/statistical-modelling/Rplot.png))
 
-![Disease Rate by Age Group](chart3_age_group_rate.png)
+![Disease Rate by Age Group]([chart3_age_group_rate.png](https://github.com/Oratile04/oratile-portfolio/blob/main/projects/statistical-modelling/Rplot02.png))
 
 ## Reflection
 This project taught me that statistical modelling is as much about asking
